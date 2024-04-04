@@ -1,0 +1,6 @@
+@MySampleBolg.APIs_HostAddress = http://localhost:5115
+
+GET {{MySampleBolg.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
